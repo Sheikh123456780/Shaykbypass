@@ -1,0 +1,11 @@
+{
+    "PlayerESP": {
+        "Line": true,
+        "Box": false,
+        "Skeleton": true,
+        "Name": true,
+        "Health": false,
+        "Distance": true,
+        "TeamID": false
+    }
+}
