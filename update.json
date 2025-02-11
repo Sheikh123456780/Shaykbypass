@@ -1,0 +1,9 @@
+{
+    "apk": {
+        "name": "BGMI",
+        "latest_version": "2.9.0"
+    },
+    "files": {
+        "download_link": "https://yourserver.com/files/update.zip"
+    }
+}
