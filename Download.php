@@ -1,4 +1,4 @@
 {
-  "version": "0.01",
-  "url": "https://github.com/Sheikh123456780/Shaykbypass/releases/download/Join/libbgmi.so"
+  "version": "0.05",
+  "url": "https://github.com/DARKxAZAN/libbgmi.so/raw/refs/heads/main/libbgmi.so"
 }
