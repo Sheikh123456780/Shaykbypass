@@ -1,8 +1,5 @@
 {
-  "expiry_date": "2026-05-15",
-  "version": "2.0",
-  "status": "active",
-  "message": "Your VIP mod has expired! Contact @SHAYKMODZZ to renew.",
-  "warning_message": "⚠️ Your VIP mod expires in 3 days! Renew now.",
-  "welcome_message": "✅ Welcome to SHAYKMODZZ VIP! Enjoy the mod!"
+    "key": "shayk1234",
+    "expiry": "2026-12-31",
+    "status": true,
 }
