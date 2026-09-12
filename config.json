@@ -1,25 +1,8 @@
-
 {
-    "keys": {
-        "shaykmodzz-3-days-trail": {
-            "expiry": "2026-8-25",
-            "status": true,
-            "user": "User1"
-        },
-        "ahmed5678": {
-            "expiry": "2025-06-30",
-            "status": true,
-            "user": "User2"
-        },
-        "khan9999": {
-            "expiry": "2024-12-31",
-            "status": false,
-            "user": "User3"
-        },
-        "newuser111": {
-            "expiry": "2027-01-01",
-            "status": true,
-            "user": "User4"
-        }
-    }
+  "enableGlobal": false,
+  "enableBgmi": true,
+  "enableKorea": false,
+  "maintenance": false,
+  "javaModeMaintenance": false,
+  "autoModeMaintenance": false
 }
